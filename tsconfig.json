@@ -1,0 +1,14 @@
+{
+    "include": ["**/*"],
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "commonjs",
+        "outDir": "dist",
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "checkJs": true
+    }
+}
